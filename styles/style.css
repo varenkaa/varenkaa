@@ -1,0 +1,60 @@
+html {
+
+    background-color: rgba(123, 104, 234, 0.5);
+}
+body {
+font-family: ;
+text-align:center;
+
+
+
+
+
+
+
+
+}
+
+h1 {
+    color: Aqua;
+font-weight: 900;
+font-stretch: expanded;
+font-style: oblique;
+font-family: "Arial";
+font-size: xx-large;
+
+
+
+
+
+
+}
+
+p {
+    color: black;
+font-weight: 700;
+font-stretch: normal;
+font-style: oblique;
+font-family: "Times New Roman";
+font-size: xx-large;
+
+
+
+
+
+
+} 
+
+li { color: DeepSkyBlue;
+font-weight: 800;
+font-stretch: normal;
+font-style: oblique;
+font-family: "Verdana";
+font-size: medium;
+
+
+}
+.aga{
+    width: 1500px;
+    height: auto;
+}
